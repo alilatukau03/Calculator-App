@@ -1,16 +1,14 @@
-<section id="screenshoot">
+
 	
 # Screenshoot
 <div class="ozzy">
     <div class="items">
     	<h4 class="title-ozzy">Linktr UI</h4>
 		 <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158547-e010447d-c4e4-4b78-9e56-fb70ec9da24c.png">
-     <img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158644-0f3a4a3d-e523-4846-9f9c-8f02bfd2659a.png">
+     		 <img class="img-ozzyy" src="https://user-images.githubusercontent.com/103307109/164158644-0f3a4a3d-e523-4846-9f9c-8f02bfd2659a.png">
     </div>
-  
-    
 </div>
-</section>
+
 
 # Getting Started with Create React App
 
