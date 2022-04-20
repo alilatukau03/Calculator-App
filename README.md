@@ -4,10 +4,10 @@
 <div class="ozzy">
     <div class="items">
     	<h4 class="title-ozzy">Calculator App</h4>
-		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158547-e010447d-c4e4-4b78-9e56-fb70ec9da24c.png" | width=100>
-     		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158644-0f3a4a3d-e523-4846-9f9c-8f02bfd2659a.png">
-	    	<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164159003-0be9bf4d-e436-4386-ac04-777736147897.png">
-	    	<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164159055-51541a05-f1f3-4845-9211-142f3f55ebcf.png">
+		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158547-e010447d-c4e4-4b78-9e56-fb70ec9da24c.png" | width=200>
+     		<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164158644-0f3a4a3d-e523-4846-9f9c-8f02bfd2659a.png" | width=200>
+	    	<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164159003-0be9bf4d-e436-4386-ac04-777736147897.png" | width=200>
+	    	<img class="img-ozzy" src="https://user-images.githubusercontent.com/103307109/164159055-51541a05-f1f3-4845-9211-142f3f55ebcf.png" | width=200>
     </div>
 </div>
 
